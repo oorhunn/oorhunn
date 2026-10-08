@@ -1,6 +1,7 @@
 # Anıl Orhun Demiroğlu
 
-
 <p align="center">
-  <img src="emerald-fractal.gif" alt="Animated emerald-green Julia fractal on a black background" width="100%" />
+  <img src="green-flow.gif" alt="Flowing green particle trails on black, inspired by the Odysseus homepage" width="100%" />
 </p>
+
+<!-- Flow-field movement adapted from the Odysseus homepage: https://github.com/odysseus-dev/odysseus/blob/dev/website/index.html -->
